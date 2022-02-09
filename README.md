@@ -33,11 +33,11 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 
 - [AWS Certification Official Practice Question Sets (English)](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/9153/aws-certification-official-practice-question-sets-english)
 
-    > Simulasi ujian via BenchPrep untuk mengenali format pertanyaan ujian SysOps Administrator nanti. Untuk mencoba bisa mendaftar menggunakan akun Amazon kita, bukan akun AWS.
+    > Simulasi ujian via BenchPrep untuk mengenali format pertanyaan ujian AWS Developer nanti. Untuk mencoba bisa mendaftar menggunakan akun Amazon kita, bukan akun AWS.
 
 - [How to Get Official AWS Practice Exams for Free](https://www.youtube.com/watch?v=fR-sjK2u6D4&ab_channel=SkillFillip)
 
-    > Cara mendapatkan simulasi ujian gratis via PSI Online untuk mengenali format pertanyaan ujian SysOps Administrator nanti. Untuk mencoba syaratnya *harus lulus minimal satu ujian AWS* apapun.
+    > Cara mendapatkan simulasi ujian gratis via PSI Online untuk mengenali format pertanyaan ujian AWS Developer nanti. Untuk mencoba syaratnya *harus lulus minimal satu ujian AWS* apapun.
 
 ## Hands on Lab
 ### 1. Video Demo Lab
