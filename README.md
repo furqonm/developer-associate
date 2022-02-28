@@ -23,15 +23,16 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
     > Catatan berisikan key point service-service di AWS.
 
 ### 3. Exam Readiness
-- [Exam Readiness: AWS Certified Developer – Associate (Digital)](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/42/exam-readiness-aws-certified-developer-associate-digital)
+- [Exam Readiness: AWS Certified Developer – Associate (Digital)](https://explore.skillbuilder.aws/learn/course/external/view/elearning/42/exam-readiness-aws-certified-developer-associate-digital)
 
     > E-learning untuk latihan persiapan ujian AWS Developer dari AWS. Materi berisikan eksplorasi topik yang keluar di ujian dan beberapa contoh soal ujian. Untuk mencoba bisa mendaftar menggunakan akun Amazon kita, bukan akun AWS.
 
 - [AWS Certified Developer – Associate Sample Questions](https://d1.awsstatic.com/training-and-certification/docs-dev-associate/AWS-Certified-Developer-Associate_Sample-Questions.pdf)
+- [Qubits42 Test, Learn: AWS Certified Developer – Associate (Developing on AWS)](https://www.qubits42.com/test/1428/1881719) **(Unofficial)**
 
-    > Beberapa contoh soal untuk mengenali format pertanyaan ujian AWS Developer nanti.
+    > Beberapa contoh soal untuk mempersiapkan ujian AWS Developer.
 
-- [AWS Certification Official Practice Question Sets (English)](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/9153/aws-certification-official-practice-question-sets-english)
+- [AWS Certification Official Practice Question Sets (English)](https://explore.skillbuilder.aws/learn/course/external/view/elearning/9153/aws-certification-official-practice-question-sets-english)
 
     > Simulasi ujian via BenchPrep untuk mengenali format pertanyaan ujian AWS Developer nanti. Untuk mencoba bisa mendaftar menggunakan akun Amazon kita, bukan akun AWS.
 
