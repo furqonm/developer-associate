@@ -4,10 +4,6 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 ---
 ## Exam Preparation Materials
 ### 1. Course
-- [AWS Basics for Beginners - Full Course](https://www.youtube.com/watch?v=ulprqHHWlng&ab_channel=freeCodeCamp.org) **(Unofficial)**
-
-    > Video material dari Neal Davis (Digital Cloud Training) di freecodecamp. Silahkan dipelajari untuk memperkuat konsep dasar AWS Cloud, dimana materi ini cocok untuk pemula dan terdapat beberapa demo yang ditampilkan.
-
 - [AWS Certified Developer - Associate 2020 (PASS THE EXAM!)](https://www.youtube.com/watch?v=RrKRN9zRBWs&ab_channel=freeCodeCamp.org) **(Unofficial)**
 
     > Video material dari Andrew Brown (ExamPro) di freecodecamp. Silahkan dipelajari untuk memperdalam pengenalan beberapa service di AWS berikut fitur-fiturnya yang mungkin diujikan.
@@ -32,9 +28,9 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 
     > Beberapa contoh soal untuk mempersiapkan ujian AWS Developer.
 
-- [AWS Certification Official Practice Question Sets (English)](https://explore.skillbuilder.aws/learn/course/external/view/elearning/9153/aws-certification-official-practice-question-sets-english)
+- [AWS Certified Developer - Associate Official Practice Question Set (DVA-C01 - English)](https://explore.skillbuilder.aws/learn/course/external/view/elearning/12484/aws-certified-developer-associate-official-practice-question-set-dva-c01-english)
 
-    > Simulasi ujian via BenchPrep untuk mengenali format pertanyaan ujian AWS Developer nanti. Untuk mencoba bisa mendaftar menggunakan akun Amazon kita, bukan akun AWS.
+    > Simulasi ujian dengan 20 soal dari AWS untuk mengenali format pertanyaan ujian AWS Developer nanti. Disini juga akan diberikan rekomendasi resource untuk persiapan ujian. Untuk mencoba bisa mendaftar menggunakan akun Amazon kita, bukan akun AWS.
 
 - [How to Get Official AWS Practice Exams for Free](https://www.youtube.com/watch?v=fR-sjK2u6D4&ab_channel=SkillFillip)
 
