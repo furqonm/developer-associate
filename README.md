@@ -14,17 +14,13 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 
     > Membahas 5 domain/section yang akan ditanyakan diujian. Bisa dicek beberapa poin mana yang tidak dimengerti untuk dipelajari lebih lanjut.
 
-- [AWS Certified Developer Associate Cheat Sheets](https://digitalcloud.training/aws-certified-developer-associate/) **(Unofficial)**
-
-    > Catatan berisikan key point service-service di AWS.
-
 ### 3. Exam Readiness
 - [Exam Readiness: AWS Certified Developer – Associate (Digital)](https://explore.skillbuilder.aws/learn/course/external/view/elearning/42/exam-readiness-aws-certified-developer-associate-digital)
 
     > E-learning untuk latihan persiapan ujian AWS Developer dari AWS. Materi berisikan eksplorasi topik yang keluar di ujian dan beberapa contoh soal ujian. Untuk mencoba bisa mendaftar menggunakan akun Amazon kita, bukan akun AWS.
 
 - [AWS Certified Developer – Associate Sample Questions](https://d1.awsstatic.com/training-and-certification/docs-dev-associate/AWS-Certified-Developer-Associate_Sample-Questions.pdf)
-- [Qubits42 Test, Learn: AWS Certified Developer – Associate (Developing on AWS)](https://www.qubits42.com/test/1428/1881719) **(Unofficial)**
+- [Qubits42 Test, Learn: AWS Certified Developer – Associate](https://www.qubits42.com/test/1428/1881719) **(Unofficial)**
 
     > Beberapa contoh soal untuk mempersiapkan ujian AWS Developer.
 
@@ -54,6 +50,6 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 
 ### 3. Step-by-Step Tutorials
 - [Well-Architected Labs](https://www.wellarchitectedlabs.com/)
-- [AWS Hands-On Tutorials](https://aws.amazon.com/getting-started/hands-on)
+- [AWS Hands-On Tutorials](https://aws.amazon.com/getting-started/hands-on/?getting-started-all.sort-by=item.additionalFields.sortOrder&getting-started-all.sort-order=asc&awsf.getting-started-category=*all&awsf.getting-started-level=*all&awsf.getting-started-content-type=content-type%23how-to)
 
     > Kumpulan panduan lab yang dikerjakan diakun AWS kita. Harap berhati-hati akan biaya pengeluaran ketika melakukan langkah-langkahnya karena lab ini dikerjakan diakun AWS. Perhatikan langkah terakhir **tear down** atau **clean up** yang menjelaskan apa yang harus diterminate diakun kita.
