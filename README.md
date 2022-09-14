@@ -15,7 +15,7 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
     > Membahas 5 domain/section yang akan ditanyakan diujian. Bisa dicek beberapa poin mana yang tidak dimengerti untuk dipelajari lebih lanjut.
 
 ### 3. Exam Readiness
-- [Exam Readiness: AWS Certified Developer – Associate (Digital)](https://explore.skillbuilder.aws/learn/course/external/view/elearning/42/exam-readiness-aws-certified-developer-associate-digital)
+- [Exam Readiness: AWS Certified Developer – Associate (Digital)](https://explore.skillbuilder.aws/learn/course/external/view/elearning/42/exam-readiness-aws-certified-developer-associate-digital?da=sec&sec=prep)
 
     > E-learning untuk latihan persiapan ujian AWS Developer dari AWS. Materi berisikan eksplorasi topik yang keluar di ujian dan beberapa contoh soal ujian. Untuk mencoba bisa mendaftar menggunakan akun Amazon kita, bukan akun AWS.
 
@@ -28,15 +28,11 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 
     > Simulasi ujian dengan 20 soal dari AWS untuk mengenali format pertanyaan ujian AWS Developer nanti. Disini juga akan diberikan rekomendasi resource untuk persiapan ujian. Untuk mencoba bisa mendaftar menggunakan akun Amazon kita, bukan akun AWS.
 
-- [How to Get Official AWS Practice Exams for Free](https://www.youtube.com/watch?v=fR-sjK2u6D4&ab_channel=SkillFillip)
-
-    > Cara mendapatkan simulasi ujian gratis via PSI Online untuk mengenali format pertanyaan ujian AWS Developer nanti. Untuk mencoba syaratnya *harus lulus minimal satu ujian AWS* apapun.
-
 ## Hands on Lab
 ### 1. Video Demo Lab
 - [Developing on AWS](http://bit.ly/Devlabs)
 
-    > Video rekaman pengerjaan lab yang bisa kita tonton buat ngerefresh apa yang pernah kita kerjakan dulu.
+    > Video rekaman pengerjaan lab yang bisa kita tonton buat ngerefresh apa yang pernah kita kerjakan dulu. Video ini bukan untuk lab dikelas AWS Academy.
 
 ### 2. Free Labs
 - [Amazon Qwiklabs](https://amazon.qwiklabs.com/catalog?price%5B%5D=free)
