@@ -32,7 +32,7 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 ### 1. Video Demo Lab
 - [Developing on AWS](http://bit.ly/Devlabs)
 
-    > Video rekaman pengerjaan lab yang bisa kita tonton buat ngerefresh apa yang pernah kita kerjakan dulu. Video ini bukan untuk lab dikelas AWS Academy.
+    > Video rekaman pengerjaan lab yang bisa kita tonton buat ngerefresh apa yang pernah kita kerjakan dulu. Video ini bukan rekaman lab dikelas AWS Academy.
 
 ### 2. Free Labs
 - [Amazon Qwiklabs](https://amazon.qwiklabs.com/catalog?price%5B%5D=free)
