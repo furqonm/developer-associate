@@ -20,7 +20,6 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
     > E-learning untuk latihan persiapan ujian AWS Developer dari AWS. Materi berisikan eksplorasi topik yang keluar di ujian dan beberapa contoh soal ujian. Untuk mencoba bisa mendaftar menggunakan akun Amazon kita, bukan akun AWS.
 
 - [AWS Certified Developer – Associate Sample Questions](https://d1.awsstatic.com/training-and-certification/docs-dev-associate/AWS-Certified-Developer-Associate_Sample-Questions.pdf)
-- [Qubits42 Test, Learn: AWS Certified Developer – Associate](https://www.qubits42.com/test/1428/1881719) **(Unofficial)**
 
     > Beberapa contoh soal untuk mempersiapkan ujian AWS Developer.
 
