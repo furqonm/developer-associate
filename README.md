@@ -4,9 +4,9 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 ---
 ## Exam Preparation Materials
 ### 1. Course
-- [AWS Certified Developer - Associate 2020 (PASS THE EXAM!)](https://www.youtube.com/watch?v=RrKRN9zRBWs&ab_channel=freeCodeCamp.org) **(Unofficial)**
+- [AWS Certified Developer - Associate 2020 (PASS THE EXAM!)](https://www.youtube.com/playlist?list=PLBfufR7vyJJ5WuCNg2em7SgdAfjduqnNq) **(Unofficial)**
 
-    > Video material dari Andrew Brown (ExamPro) di freecodecamp. Silahkan dipelajari untuk memperdalam pengenalan beberapa service di AWS berikut fitur-fiturnya yang mungkin diujikan.
+    > Video material dari Andrew Brown dari ExamPro. Silahkan dipelajari untuk memperdalam pengenalan beberapa service di AWS berikut fitur-fiturnya yang mungkin diujikan.
 
 
 ### 2. Exam Guide
