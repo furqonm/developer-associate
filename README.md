@@ -1,4 +1,4 @@
-# Preparation for AWS Certified Developer – Associate (DVA-C01)
+# Preparation for AWS Certified Developer – Associate (DVA-C02)
 _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan materi belajar. Sumber belajar yang saya dokumentasikan sendiri ini tidak merepresentasikan informasi resmi dari pihak AWS, meskipun beberapa link dan material bersumber resmi dari AWS._
 
 ---
@@ -10,20 +10,20 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 
 
 ### 2. Exam Guide
-- [AWS Certified Developer – Associate Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-dev-associate/AWS-Certified-Developer-Associate_Exam-Guide.pdf)
+- [AWS Certified Developer - Associate (DVA-C02) Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-dev-associate/AWS-Certified-Developer-Associate_Exam-Guide.pdf)
 
-    > Membahas 5 domain/section yang akan ditanyakan diujian. Bisa dicek beberapa poin mana yang tidak dimengerti untuk dipelajari lebih lanjut.
+    > Membahas 4 domain/section yang akan ditanyakan diujian. Bisa dicek beberapa poin mana yang tidak dimengerti untuk dipelajari lebih lanjut.
 
 ### 3. Exam Readiness
-- [Exam Readiness: AWS Certified Developer – Associate (Digital)](https://explore.skillbuilder.aws/learn/course/external/view/elearning/42/exam-readiness-aws-certified-developer-associate-digital?da=sec&sec=prep)
+- [Exam Prep: AWS Certified Developer - Associate (DVA-C02)](https://explore.skillbuilder.aws/learn/course/external/view/elearning/14724/exam-prep-aws-certified-developer-associate-dva-c02)
 
     > E-learning untuk latihan persiapan ujian AWS Developer dari AWS. Materi berisikan eksplorasi topik yang keluar di ujian dan beberapa contoh soal ujian. Untuk mencoba bisa mendaftar menggunakan akun Amazon kita, bukan akun AWS.
 
-- [AWS Certified Developer – Associate Sample Questions](https://d1.awsstatic.com/training-and-certification/docs-dev-associate/AWS-Certified-Developer-Associate_Sample-Questions.pdf)
+- [AWS Certified Developer - Associate (DVA-C02) Sample Exam Questions](https://d1.awsstatic.com/training-and-certification/docs-dev-associate/AWS-Certified-Developer-Associate_Sample-Questions.pdf)
 
     > Beberapa contoh soal untuk mempersiapkan ujian AWS Developer.
 
-- [AWS Certified Developer - Associate Official Practice Question Set (DVA-C01 - English)](https://explore.skillbuilder.aws/learn/course/external/view/elearning/12484/aws-certified-developer-associate-official-practice-question-set-dva-c01-english)
+- [AWS Certified Developer - Associate Official Practice Question Set (DVA-C02 - English)](https://explore.skillbuilder.aws/learn/course/external/view/elearning/13757/aws-certified-developer-associate-official-practice-question-set-dva-c02-english)
 
     > Simulasi ujian dengan 20 soal dari AWS untuk mengenali format pertanyaan ujian AWS Developer nanti. Disini juga akan diberikan rekomendasi resource untuk persiapan ujian. Untuk mencoba bisa mendaftar menggunakan akun Amazon kita, bukan akun AWS.
 
