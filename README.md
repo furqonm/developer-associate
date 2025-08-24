@@ -1,50 +1,34 @@
 # Preparation for AWS Certified Developer – Associate (DVA-C02)
-_[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan materi belajar. Sumber belajar yang saya dokumentasikan sendiri ini tidak merepresentasikan informasi resmi dari pihak AWS, meskipun beberapa link dan material bersumber resmi dari AWS._
+_[DISCLAIMER] The links and materials provided here are for supplementary study purposes. These self-documented study resources do not represent official information from AWS, although some links and materials are from official AWS sources._
 
 ---
 ## Exam Preparation Materials
 ### 1. Course
-- [AWS Certified Developer - Associate 2020 (PASS THE EXAM!)](https://www.youtube.com/playlist?list=PLBfufR7vyJJ5WuCNg2em7SgdAfjduqnNq) **(Unofficial)**
+- [AWS Certified Developer Associate (DVA-C02) Certification Course – Prepare For and Pass the Exam](https://www.youtube.com/watch?v=TTcyhhH2FWE)
 
-    > Video material dari Andrew Brown dari ExamPro. Silahkan dipelajari untuk memperdalam pengenalan beberapa service di AWS berikut fitur-fiturnya yang mungkin diujikan.
-
+    > Video material from Andrew Brown of ExamPro. Please study this to deepen your understanding of various AWS services and their features that might appear on the exam.
 
 ### 2. Exam Guide
-- [AWS Certified Developer - Associate (DVA-C02) Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-dev-associate/AWS-Certified-Developer-Associate_Exam-Guide.pdf)
+- [AWS Certified Developer - Associate (DVA-C02) Exam Guide](https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/certification/approved/pdfs/docs-dev-associate/AWS-Certified-Developer-Associate_Exam-Guide.pdf)
 
-    > Membahas 4 domain/section yang akan ditanyakan diujian. Bisa dicek beberapa poin mana yang tidak dimengerti untuk dipelajari lebih lanjut.
+    > This guide discusses the 4 domains/sections that will be covered in the exam. You can use it to identify any points you don't understand for further study.
 
 ### 3. Exam Readiness
-- [Exam Prep: AWS Certified Developer - Associate (DVA-C02)](https://explore.skillbuilder.aws/learn/course/external/view/elearning/14724/exam-prep-aws-certified-developer-associate-dva-c02)
-
-    > E-learning untuk latihan persiapan ujian AWS Developer dari AWS. Materi berisikan eksplorasi topik yang keluar di ujian dan beberapa contoh soal ujian. Untuk mencoba bisa mendaftar menggunakan akun Amazon kita, bukan akun AWS.
-
 - [AWS Certified Developer - Associate (DVA-C02) Sample Exam Questions](https://d1.awsstatic.com/training-and-certification/docs-dev-associate/AWS-Certified-Developer-Associate_Sample-Questions.pdf)
 
-    > Beberapa contoh soal untuk mempersiapkan ujian AWS Developer.
+    > A few sample questions to help you prepare for the AWS Developer exam.
 
-- [AWS Certified Developer - Associate Official Practice Question Set (DVA-C02 - English)](https://explore.skillbuilder.aws/learn/course/external/view/elearning/13757/aws-certified-developer-associate-official-practice-question-set-dva-c02-english)
+- [AWS Certified Developer - Associate Official Practice Question Set (DVA-C02 - English)](https://skillbuilder.aws/learn/VHBKSAVY53/official-practice-question-set-aws-certified-developer--associate-dvac02--english/7YG88KA9XK)
 
-    > Simulasi ujian dengan 20 soal dari AWS untuk mengenali format pertanyaan ujian AWS Developer nanti. Disini juga akan diberikan rekomendasi resource untuk persiapan ujian. Untuk mencoba bisa mendaftar menggunakan akun Amazon kita, bukan akun AWS.
+    > An exam simulation with 20 questions from AWS to help you get familiar with the question format for the AWS Developer exam. It also provides resource recommendations for your preparation.
 
-## Hands on Lab
-### 1. Video Demo Lab
+## Hands-on Labs
+### 1. Video Demo Labs
 - [Developing on AWS](http://bit.ly/Devlabs)
 
-    > Video rekaman pengerjaan lab yang bisa kita tonton buat ngerefresh apa yang pernah kita kerjakan dulu. Video ini bukan rekaman lab dikelas AWS Academy.
+    > Video recordings of lab walkthroughs that you can watch to refresh what you have previously worked on. These videos are not recordings from an AWS Academy class lab.
 
-### 2. Free Labs
-- [Amazon Qwiklabs](https://amazon.qwiklabs.com/catalog?price%5B%5D=free)
-
-    > Kumpulan lab AWS yang disediakan gratis. Untuk mencoba bisa mendaftar menggunakan akun Google kita.
-
-- [Play with Docker](https://labs.play-with-docker.com/)
-- [Kubernetes: Hello Minikube](https://kubernetes.io/docs/tutorials/hello-minikube/)
-
-    > Hands-on Labs gratis untuk belajar Docker dan Kubernetes. Lab berjalan di browser tanpa memerlukan instalasi.
-
-### 3. Step-by-Step Tutorials
+### 2. Step-by-Step Tutorials
 - [Well-Architected Labs](https://www.wellarchitectedlabs.com/)
-- [AWS Hands-On Tutorials](https://aws.amazon.com/getting-started/hands-on/?getting-started-all.sort-by=item.additionalFields.sortOrder&getting-started-all.sort-order=asc&awsf.getting-started-category=*all&awsf.getting-started-level=*all&awsf.getting-started-content-type=content-type%23how-to)
 
-    > Kumpulan panduan lab yang dikerjakan diakun AWS kita. Harap berhati-hati akan biaya pengeluaran ketika melakukan langkah-langkahnya karena lab ini dikerjakan diakun AWS. Perhatikan langkah terakhir **tear down** atau **clean up** yang menjelaskan apa yang harus diterminate diakun kita.
+    > A collection of lab guides to be completed in your own AWS account. Please be mindful of potential costs when performing the steps, as these labs run in your personal AWS account. Pay close attention to the final **tear down** or **clean up** steps, which detail the resources you need to terminate in your account.
