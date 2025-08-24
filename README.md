@@ -8,6 +8,19 @@ _[DISCLAIMER] The links and materials provided here are for supplementary study 
 
     > Video material from Andrew Brown of ExamPro. Please study this to deepen your understanding of various AWS services and their features that might appear on the exam.
 
+- [Module 1 dan Module 2 - Familiarization with AWS Academy LMS and Lab Grading System](https://www.youtube.com/watch?v=Jx08JehKdSI)
+- [Module 3 - Developing Storage Solutions](https://www.youtube.com/watch?v=JImuT8oX0nE)
+- [Module 4 - Securing Access to Cloud Resources](https://www.youtube.com/watch?v=DKJFuOG3Ihk)
+- [Module 5 - Developing Flexible NoSQL Solutions](https://www.youtube.com/watch?v=5hVS3EHl62A)
+- [Module 7 - Developing Event Driven Serverless Solutions](https://www.youtube.com/watch?v=gSMJgSdbhKg)
+- [Module 8: Introducing Containers and Container Services](https://www.youtube.com/watch?v=PoG0PiAKxDI)
+- [Module 9 : Caching Information for Scalability](https://www.youtube.com/watch?v=J7thtCo1YSc)
+- [Module 10 : Developing with Messaging Services](https://www.youtube.com/watch?v=Z6qlBv1fmzw)
+- [Module 11: Defining Workflows to Orchestrate Functions](https://www.youtube.com/watch?v=jC5IG07iIIg)
+- [Module 12-13: Developing Secure Applications on AWS - Automating Deployment Using CI/CD](https://www.youtube.com/watch?v=C96K8rCosfE)
+
+    > Recording of AWS Academy Cloud Developing online class that provided by Kominfo and AWS Academy.
+
 ### 2. Exam Guide
 - [AWS Certified Developer - Associate (DVA-C02) Exam Guide](https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/certification/approved/pdfs/docs-dev-associate/AWS-Certified-Developer-Associate_Exam-Guide.pdf)
 
