@@ -19,7 +19,7 @@ _[DISCLAIMER] The links and materials provided here are for supplementary study 
 - [Module 11: Defining Workflows to Orchestrate Functions](https://www.youtube.com/watch?v=jC5IG07iIIg)
 - [Module 12-13: Developing Secure Applications on AWS - Automating Deployment Using CI/CD](https://www.youtube.com/watch?v=C96K8rCosfE)
 
-    > Recording of AWS Academy Cloud Developing online class that provided by Kominfo and AWS Academy (Indonesian language).
+    > Recording of the AWS Academy Cloud Developing online class provided by Kominfo and AWS Academy (in Indonesian).
 
 ### 2. Exam Guide
 - [AWS Certified Developer - Associate (DVA-C02) Exam Guide](https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/certification/approved/pdfs/docs-dev-associate/AWS-Certified-Developer-Associate_Exam-Guide.pdf)
