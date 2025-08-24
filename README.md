@@ -32,7 +32,9 @@ _[DISCLAIMER] The links and materials provided here are for supplementary study 
 
     > A few sample questions to help you prepare for the AWS Developer exam.
 
-- [AWS Certified Developer - Associate Official Practice Question Set (DVA-C02 - English)](https://skillbuilder.aws/learn/VHBKSAVY53/official-practice-question-set-aws-certified-developer--associate-dvac02--english/7YG88KA9XK)
+- [AWS Certified Developer - Associate Official Practice Question Set (DVA-C02 - English)](https://awscertificationpractice.benchprep.com/app/aws-certified-developer-associate-official-practice-question-set-dva-c02-v2?locale=en-us)
+- [Amazon AWS Certified Developer Associate DVA-C02 Exam](https://www.examtopics.com/exams/amazon/aws-certified-developer-associate-dva-c02/)
+- [Amazon AWS Certified Developer Associate Exam](https://www.examtopics.com/exams/amazon/aws-certified-developer-associate/)
 
     > An exam simulation with 20 questions from AWS to help you get familiar with the question format for the AWS Developer exam. It also provides resource recommendations for your preparation.
 
