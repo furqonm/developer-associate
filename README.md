@@ -38,7 +38,7 @@ _[DISCLAIMER] The links and materials provided here are for supplementary study 
 ### 1. Video Demo Labs
 - [Developing on AWS](http://bit.ly/Devlabs)
 
-    > Video recordings of lab walkthroughs that you can watch to refresh what you have previously worked on. These videos are not recordings from an AWS Academy class lab.
+    > Video recordings of lab walkthroughs that you can watch to refresh what you have previously worked on.
 
 ### 2. Step-by-Step Tutorials
 - [Well-Architected Labs](https://www.wellarchitectedlabs.com/)
