@@ -23,5 +23,5 @@ After the stack is completed, make sure that the following resources were create
 - API Gateway resources
 - AWS Cloud9 instance – Contains the code necessary to host the application. You can use the code snippets in your demos.
 - Website– Website URL for your Polly Notes application. 
-* User name: student
-*  Password: student
+  * User name: student
+  *  Password: student
