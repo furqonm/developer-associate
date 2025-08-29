@@ -33,7 +33,7 @@ _[DISCLAIMER] The links and materials provided here are for supplementary study 
 - [Examtopics: Amazon AWS Certified Developer Associate DVA-C02 Exam](https://www.examtopics.com/exams/amazon/aws-certified-developer-associate-dva-c02/)
 - [Examtopics: Amazon AWS Certified Developer Associate Exam](https://www.examtopics.com/exams/amazon/aws-certified-developer-associate/)
 
-    > An exam simulation with 20 questions from AWS to help you get familiar with the question format for the AWS Developer exam. It also provides resource recommendations for your preparation.
+    > Some sample questions to help you get familiar with the question format for the AWS Developer exam.
 
 ## Hands-on Labs
 ### 1. Video Demo Labs
