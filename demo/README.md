@@ -1,11 +1,11 @@
 # Setting up the demo environment
 
 ## Task 1: Setting up the demo code
-1. Download the file with the same folder structure, which contains the source code and template, and place it to your local disk **demo_code**
+1. Download the file with the same folder structure, **demo_code**, which contains the source code and template, and place it to your local disk
 2. Create an S3 bucket (or use an existing S3 bucket) and upload the demo_code folder with the existing structure. For reference, let's refer to this bucket as your demo-code bucket.
 
 ## Task 2: Creating the sandbox demo environment
-1. Dowload the sanbox_template.yml file below. You will use this template to create the sandbox environment **sandbox_template_v4.yml**
+1. Dowload the **sandbox_template_v4.yml** file. You will use this template to create the sandbox environment.
 This demo sandbox creates an S3 public website. If you do not have the s3:GetObject permission, you will not be able to add a S3 bucket policy, so contact your administrator to add the permission to your account. 
 Meanwhile, in your AWS CloudFormation template, comment the code (line numbers 321–331) related to the webBucketPolicy resource, and proceed with the next steps. After the stack is completed and you have been granted the appropriate permissions, modify the pollyNotesWeb bucket to add s3:GetObject bucket policy permission. 
 The appendix includes a sample bucket policy. If you are using this sample bucket policy, remember to change the bucket name.
