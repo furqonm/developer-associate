@@ -29,9 +29,6 @@ _[DISCLAIMER] The links and materials provided here are for supplementary study 
 
 ### 4. Exam Readiness
 - [AWS Certified Developer - Associate (DVA-C02) Sample Exam Questions](https://d1.awsstatic.com/training-and-certification/docs-dev-associate/AWS-Certified-Developer-Associate_Sample-Questions.pdf)
-
-    > A few sample questions to help you prepare for the AWS Developer exam.
-
 - [AWS Certified Developer - Associate Official Practice Question Set (DVA-C02 - English)](https://awscertificationpractice.benchprep.com/app/aws-certified-developer-associate-official-practice-question-set-dva-c02-v2?locale=en-us)
 - [Examtopics: Amazon AWS Certified Developer Associate DVA-C02 Exam](https://www.examtopics.com/exams/amazon/aws-certified-developer-associate-dva-c02/)
 - [Examtopics: Amazon AWS Certified Developer Associate Exam](https://www.examtopics.com/exams/amazon/aws-certified-developer-associate/)
